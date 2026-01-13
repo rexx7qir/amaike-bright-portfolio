@@ -23,7 +23,7 @@ const ContactSection = () => {
 
     // Using Formspree - replace YOUR_FORM_ID with actual form ID
     try {
-      const response = await fetch("https://formspree.io/f/xpwpgvee", {
+      const response = await fetch("https://formspree.io/f/mkgjkjjg", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -111,7 +111,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <div className="text-sm text-muted-foreground">Phone</div>
-                  <div className="font-medium">Available on request</div>
+                  <div className="font-medium">09123040209</div>
                 </div>
               </div>
             </div>
