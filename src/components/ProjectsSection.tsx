@@ -3,11 +3,11 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "Clipit",
     description:
-      "A modern e-commerce solution with cart functionality, payment integration, and responsive design.",
-    link: "#",
-    tags: ["React", "Tailwind", "Stripe"],
+      "An AI-powered web app that identifies any movie from a YouTube clip. Users can paste any YouTube link (full video, Short, or embed) and Clipit analyzes the video to determine which movie it is from. It provides the best match plus close guesses.",
+    link: "https://official-clipit.netlify.app",
+    tags: ["AI", "React", "YouTube API"],
   },
   {
     title: "Task Management App",
