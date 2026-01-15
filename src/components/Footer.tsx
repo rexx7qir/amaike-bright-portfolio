@@ -44,7 +44,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t border-border text-center">
           <p className="text-muted-foreground text-sm">
-            © 2025 Amaike Bright. All Rights Reserved.
+            © 2026 Amaike Bright. All Rights Reserved.
           </p>
         </div>
       </div>
